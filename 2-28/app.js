@@ -3,7 +3,7 @@ var app = new Vue({
   // options
   el: '#app',
   data: {
-	  now: ''
+	  message: 'Hello, Vue.js!'
   },
   methods :{
   	onclick: function(){
